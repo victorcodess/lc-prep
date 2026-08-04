@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/victorcodess/lc-prep/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/victorcodess/lc-prep/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 <!---LeetCode Topics End-->
