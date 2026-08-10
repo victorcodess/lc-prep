@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,5 +39,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 <!---LeetCode Topics End-->
