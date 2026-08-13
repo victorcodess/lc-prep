@@ -10,23 +10,48 @@
  * @param {TreeNode} root
  * @return {void} Do not return anything, modify root in-place instead.
  */
+// var flatten = function(root) {
+//     if (root === null) return null;
+
+//     const stack = [root];
+//     let previous = null
+
+//     while (stack.length) {
+//         const current = stack.pop()
+
+//         if (current.right) stack.push(current.right);
+//         if (current.left) stack.push(current.left);
+
+//         current.right = null;
+//         current.left = null;
+
+//         if (previous) previous.right = current;
+//         previous = current;
+//     }
+
+//     return root;
+// };
+
 var flatten = function(root) {
     if (root === null) return null;
 
-    const stack = [root];
-    let previous = null
+    let current = root;
 
-    while (stack.length) {
-        const current = stack.pop()
+    while (current) {
+        if (current.left) {
+            let predecessor = current.left;
 
-        if (current.right) stack.push(current.right);
-        if (current.left) stack.push(current.left);
+            while (predecessor.right) {
+                predecessor = predecessor.right;
+            }
 
-        current.right = null;
-        current.left = null;
+            predecessor.right = current.right;
 
-        if (previous) previous.right = current;
-        previous = current;
+            current.right = current.left;
+            current.left = null
+        }
+
+        current = current.right;
     }
 
     return root;
