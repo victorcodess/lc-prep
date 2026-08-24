@@ -12,8 +12,7 @@ var merge = function(intervals) { // Time: O(nlogn), Space: O(n)
         const [currS, currE] = intervals[i];
 
         if (currS <= prevE) {
-            stack.pop();
-            stack.push([prevS, Math.max(prevE, currE)]);
+            stack[stack.length - 1][1] = Math.max(prevE, currE);
         } else {
             stack.push(intervals[i]);
         }
