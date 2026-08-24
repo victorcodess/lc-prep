@@ -6,7 +6,6 @@ var merge = function(intervals) { // Time: O(nlogn), Space: O(n)
     intervals.sort((a, b) => a[0] - b[0]);
     const stack = [intervals[0]];
     let i = 1;
-    const result = [];
 
     while (i < intervals.length) {
         const [prevS, prevE] = stack[stack.length - 1];
