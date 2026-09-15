@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/victorcodess/lc-prep/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/victorcodess/lc-prep/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/victorcodess/lc-prep/tree/main/0015-3sum/) | Medium |
+| [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
