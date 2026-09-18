@@ -4,7 +4,7 @@
  * @return {number}
  */
 var numDistinct = function(s, t, i = 0, j = 0, memo = new Map()) { // Time: O(n * m), Space: O(n * m)
-    if (i >= s.length && j < t.length) return 0;
+    if (s.length - i < t.length - j) return 0;
     if (j >= t.length) return 1;
 
     const key = i + "," + j;
