@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/victorcodess/lc-prep/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/victorcodess/lc-prep/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/victorcodess/lc-prep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/victorcodess/lc-prep/tree/main/0038-count-and-say/) | Medium |
+| [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/victorcodess/lc-prep/tree/main/0940-distinct-subsequences-ii/) | Hard |
