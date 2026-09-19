@@ -1,6 +1,11 @@
-class DoublyNode {
-    constructor(key) {
+/**
+ * @param {number} key
+ * @param {number} val
+ */
+ class DoublyNode {
+    constructor(key, val) {
         this.key = key;
+        this.val = val;
         this.next = null;
         this.prev = null;
     }
@@ -13,8 +18,9 @@ var LRUCache = function(capacity) {
     this.cache = new Map();
     this.limit = capacity;
 
-    this.left = new DoublyNode(null);
-    this.right = new DoublyNode(null);
+    this.left = new DoublyNode(null, null);
+    this.right = new DoublyNode(null, null);
+
     this.left.next = this.right;
     this.right.prev = this.left;
 };
@@ -25,9 +31,12 @@ var LRUCache = function(capacity) {
  */
 LRUCache.prototype.get = function(key) {
     if (this.cache.has(key)) {
-        this.useKey(key);
+        const node = this.cache.get(key);
 
-        return this.cache.get(key);
+        this.remove(node);
+        this.insert(node);
+
+        return node.val;
     } else {
         return -1;
     }
@@ -40,54 +49,56 @@ LRUCache.prototype.get = function(key) {
  */
 LRUCache.prototype.put = function(key, value) {
     if (!this.cache.has(key)) {
-        this.cache.set(key, value);
+        const node = new DoublyNode(key, value);
+        this.insert(node);
 
-        const node = new DoublyNode(key);
-        const prev = this.right.prev;
-
-        node.prev = prev;
-        node.next = this.right;
-
-        prev.next = node;
-        this.right.prev = node;
+        this.cache.set(key, node);
 
         if (this.cache.size > this.limit) {
             const lru = this.left.next;
-            const next = lru.next;
-            this.left.next = next;
-            next.prev = this.left;
-
-            lru.next = null;
-            lru.prev = null;
+            this.remove(lru);
 
             this.cache.delete(lru.key);
         }
     } else {
-        this.useKey(key);
+        const node = this.cache.get(key);
+        node.val = value;
 
-        this.cache.set(key, value);
+        this.remove(node);
+        this.insert(node);
+
+        this.cache.set(key, node);
     }
     
 };
 
-LRUCache.prototype.useKey = function(key) {
-    let node = this.left;
+/**
+ * @param {DoublyNode} node
+ * @return {void}
+ */
+LRUCache.prototype.insert = function(node) {
+    const prev = this.right.prev;
+    
+    prev.next = node;
+    node.prev = prev;
 
-    while (node.key !== key) {
-        node = node.next;
-    }
+    node.next = this.right;
+    this.right.prev = node;
+}
 
+/**
+ * @param {DoublyNode} node
+ * @return {void}
+ */
+LRUCache.prototype.remove = function(node) {
     const prev = node.prev;
     const next = node.next;
 
     prev.next = next;
     next.prev = prev;
 
-    const prevR = this.right.prev;
-    prevR.next = node;
-    node.prev = prevR;
-    node.next = this.right;
-    this.right.prev = node;
+    node.next = null;
+    node.prev = null;
 }
 
 /** 
