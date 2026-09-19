@@ -25,23 +25,7 @@ var LRUCache = function(capacity) {
  */
 LRUCache.prototype.get = function(key) {
     if (this.cache.has(key)) {
-        let node = this.left;
-
-        while (node.key !== key) {
-            node = node.next;
-        }
-
-        const prev = node.prev;
-        const next = node.next;
-
-        prev.next = next;
-        next.prev = prev;
-
-        const prevR = this.right.prev;
-        prevR.next = node;
-        node.prev = prevR;
-        node.next = this.right;
-        this.right.prev = node;
+        this.useKey(key);
 
         return this.cache.get(key);
     } else {
@@ -79,28 +63,32 @@ LRUCache.prototype.put = function(key, value) {
             this.cache.delete(lru.key);
         }
     } else {
-        let node = this.left;
+        this.useKey(key);
 
-        while (node.key !== key) {
-            node = node.next;
-        }
-
-        const prev = node.prev;
-        const next = node.next;
-
-        prev.next = next;
-        next.prev = prev;
-
-        const prevR = this.right.prev;
-        prevR.next = node;
-        node.prev = prevR;
-        node.next = this.right;
-        this.right.prev = node;
-        
         this.cache.set(key, value);
     }
     
 };
+
+LRUCache.prototype.useKey = function(key) {
+    let node = this.left;
+
+    while (node.key !== key) {
+        node = node.next;
+    }
+
+    const prev = node.prev;
+    const next = node.next;
+
+    prev.next = next;
+    next.prev = prev;
+
+    const prevR = this.right.prev;
+    prevR.next = node;
+    node.prev = prevR;
+    node.next = this.right;
+    this.right.prev = node;
+}
 
 /** 
  * Your LRUCache object will be instantiated and called as such:
