@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/victorcodess/lc-prep/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
 | [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
