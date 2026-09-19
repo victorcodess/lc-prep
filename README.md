@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/victorcodess/lc-prep/tree/main/0001-two-sum/) | Easy |
+| [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/victorcodess/lc-prep/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/victorcodess/lc-prep/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +183,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
