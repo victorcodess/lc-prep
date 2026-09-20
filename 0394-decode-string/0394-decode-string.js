@@ -2,15 +2,8 @@
  * @param {string} s
  * @return {string}
  */
-var decodeString = function(s) {
-    // 3,a,2,c
-    // 3,a,cc
-    // accaccacc
-
-    // 2
-
+var decodeString = function(s) { // Time: O(n * n), Space: O(n)
     let i = 0;
-
 
     const stack = [];
     const result = [];
@@ -20,9 +13,7 @@ var decodeString = function(s) {
             stack.push(s[i]);
             i++;
         }
-        // console.log(stack, i, s.length)
-
-        // console.log(stack, i);
+        
         if (i >= s.length) break;
 
         let str = [];
@@ -32,7 +23,6 @@ var decodeString = function(s) {
 
         stack.pop();
 
-// console.log(stack, i, str);
         const nums = [];
         while (stack[stack.length - 1] >= "0" && stack[stack.length - 1] <= "9") {
             nums.push(stack.pop());
@@ -41,7 +31,6 @@ var decodeString = function(s) {
         num = Number(nums.reverse().join(""));
 
         str = str.reverse().join("");
-        // console.log(stack, i, str);
 
         const decoded = new Array(num).fill(str).join("");
 
@@ -49,8 +38,6 @@ var decodeString = function(s) {
 
         i++;
     }
-
-    console.log(stack)
 
     return stack.join("");
 };
