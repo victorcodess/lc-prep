@@ -2,10 +2,8 @@
  * @param {number[]} nums
  * @return {number}
  */
-var longestSubarray = function(nums) {
-    // 0,3,0,2,0,1
+var longestSubarray = function(nums) { // Time: O(n), Space: O(n)
     const compound = [];
-
     let i = 0;
 
     while (i < nums.length) {
@@ -31,10 +29,6 @@ var longestSubarray = function(nums) {
             maxSub = Math.max(maxSub, left + right);
         }
     }
-
-// 1,1 - > -1
-// 0,0 - > 0
-    // console.log(compound)
 
     if (maxSub === -Infinity) {
         return compound[0] - 1;
