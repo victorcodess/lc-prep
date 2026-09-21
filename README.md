@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/victorcodess/lc-prep/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -214,4 +215,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
