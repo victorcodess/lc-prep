@@ -43,12 +43,11 @@ var maxProfit = function(prices) { // Time: O(n), Space: O(1)
 
     for (let i = 0; i < prices.length; i++) {
         if (prices[i] > minP) {
-            maxProfit = Math.max(maxProfit, prices[i] - minP)
+            maxProfit = Math.max(maxProfit, prices[i] - minP);
         }
 
         minP = Math.min(minP, prices[i]);
     }
-
 
     return maxProfit;
 };
