@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/victorcodess/lc-prep/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/victorcodess/lc-prep/tree/main/0197-rising-temperature/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
