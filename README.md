@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/victorcodess/lc-prep/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/victorcodess/lc-prep/tree/main/0197-rising-temperature/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/victorcodess/lc-prep/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
