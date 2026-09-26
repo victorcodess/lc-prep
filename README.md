@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/victorcodess/lc-prep/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -79,11 +80,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/victorcodess/lc-prep/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/victorcodess/lc-prep/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/victorcodess/lc-prep/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Combinatorics
