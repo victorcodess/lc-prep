@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/victorcodess/lc-prep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/victorcodess/lc-prep/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/victorcodess/lc-prep/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/victorcodess/lc-prep/tree/main/0136-single-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
