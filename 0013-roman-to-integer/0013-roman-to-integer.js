@@ -24,16 +24,14 @@ var romanToInt = function(s) { // Time: O(n), Space: O(1)
         if (i + 1 < s.length) {
             const nextCh = s[i + 1];
 
-            if (ch === "I" && nextCh === "V" || ch === "I" && nextCh === "X") {
+            if (
+                ch === "I" && (nextCh === "V" || nextCh === "X") ||
+                ch === "X" && (nextCh === "L" || nextCh === "C") ||
+                ch === "C" && (nextCh === "D" || nextCh === "M")
+            ) {
                 val = syms[nextCh] - val;
                 skip = 1;
-            } else if (ch === "X" && nextCh === "L" || ch === "X" && nextCh === "C") {
-                val = syms[nextCh] - val;
-                skip = 1;
-            } else if (ch === "C" && nextCh === "D" || ch === "C" && nextCh === "M") {
-                val = syms[nextCh] - val;
-                skip = 1;
-            } 
+            }
         }
 
         sum += val;
