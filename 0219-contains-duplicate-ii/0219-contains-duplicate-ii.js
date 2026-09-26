@@ -25,11 +25,18 @@
 //     return false;
 // };
 
-var containsNearbyDuplicate = function(nums, k) { // Time: O(n), Space: (n)
+var containsNearbyDuplicate = function(nums, k) { // Time: O(n), Space: (k)
     const indices = new Map();
+    let j = 0;
 
     for (let i = 0; i < nums.length; i++) {
         const key = String(nums[i]);
+
+        while (i - j > k) {
+            const num = nums[j];
+            indices.delete(String(nums[j]));
+            j++;
+        }
 
         if (indices.has(key)) {
             const idx = indices.get(key);
