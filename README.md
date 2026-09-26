@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/victorcodess/lc-prep/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/victorcodess/lc-prep/tree/main/0038-count-and-say/) | Medium |
 | [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/victorcodess/lc-prep/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/victorcodess/lc-prep/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
