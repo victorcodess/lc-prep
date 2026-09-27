@@ -3,7 +3,7 @@
  * @param {number[][]} connections
  * @return {number[][]}
  */
-var criticalConnections = function(n, connections) { // Time: O(n + m), Space: O()
+var criticalConnections = function(n, connections) { // Time: O(n + m), Space: O(n + m)
     const graph = new Array(n).fill(null).map(() => []);
 
     for (let [a, b] of connections) {
