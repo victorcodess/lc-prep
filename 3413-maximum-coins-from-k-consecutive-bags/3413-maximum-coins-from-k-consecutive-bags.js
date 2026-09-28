@@ -79,7 +79,7 @@ var maximumCoins = function(coins, k) { // Time: O(nlog(n)), Space: O(n)
             }
         }
 
-        let i = left;
+        let i = right;
 
         if (i < 0) return 0;
 
