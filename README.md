@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/victorcodess/lc-prep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/victorcodess/lc-prep/tree/main/0136-single-number/) | Easy |
+| [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/victorcodess/lc-prep/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/victorcodess/lc-prep/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
+| [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/victorcodess/lc-prep/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/victorcodess/lc-prep/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/victorcodess/lc-prep/tree/main/0056-merge-intervals/) | Medium |
+| [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/victorcodess/lc-prep/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
