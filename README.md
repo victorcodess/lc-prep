@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/victorcodess/lc-prep/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/victorcodess/lc-prep/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/victorcodess/lc-prep/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/victorcodess/lc-prep/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
