@@ -21,11 +21,11 @@ var removeKdigits = function(num, k) { // Time: O(n), Space: O(1)
     }
 
     let z = 0;
-    while (stack[z] === "0" && stack.length > 1) {
+    while (stack[z] === "0") {
         z++;
     }
 
     const result = stack.slice(z).join("");
 
-    return result === "" ? "0" : result;
+    return result || "0";
 };
