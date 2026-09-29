@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
+| [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/victorcodess/lc-prep/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
+| [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/victorcodess/lc-prep/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/victorcodess/lc-prep/tree/main/3169-count-days-without-meetings/) | Medium |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/victorcodess/lc-prep/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
+| [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Heap (Priority Queue)
@@ -240,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -259,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
