@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {string}
  */
-var reorganizeString = function(s) { // Time: O(nlog(m)), Space: O(n + m)
+var reorganizeString = function(s) { // Time: O(n + mlog(m)), Space: O(n + m)
     const result = [];
     const map = new Map();
 
