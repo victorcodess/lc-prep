@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/victorcodess/lc-prep/tree/main/1192-critical-connections-in-a-network/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/victorcodess/lc-prep/tree/main/1192-critical-connections-in-a-network/) | Hard |
 ## Biconnected Component
 | Problem Name | Difficulty |
@@ -333,4 +336,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/victorcodess/lc-prep/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
