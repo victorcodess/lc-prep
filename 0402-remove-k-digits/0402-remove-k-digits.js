@@ -3,8 +3,7 @@
  * @param {number} k
  * @return {string}
  */
-var removeKdigits = function(num, k) { // Time: O(n), Space: O(1)
-    if (num.length === 1) return "0";
+var removeKdigits = function(num, k) { // Time: O(n), Space: O(n)
     let stack = [];
 
     for (let i = 0; i < num.length; i++) {
@@ -21,6 +20,7 @@ var removeKdigits = function(num, k) { // Time: O(n), Space: O(1)
     }
 
     let z = 0;
+    
     while (stack[z] === "0") {
         z++;
     }
