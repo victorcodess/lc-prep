@@ -13,6 +13,7 @@
  */
 var copyRandomList = function(head) { // Time: O(n), Space: O(n)
     const oldToCopy = new Map();
+    oldToCopy.set(null, null);
 
     let old = head;
     while (old) {
@@ -24,8 +25,8 @@ var copyRandomList = function(head) { // Time: O(n), Space: O(n)
 
     while (old) {
         const copy = oldToCopy.get(old);
-        copy.next = oldToCopy.get(old.next) || null;
-        copy.random = oldToCopy.get(old.random) || null;
+        copy.next = oldToCopy.get(old.next);
+        copy.random = oldToCopy.get(old.random);
 
         old = old.next;
     }
