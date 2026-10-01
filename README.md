@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/victorcodess/lc-prep/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/victorcodess/lc-prep/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/victorcodess/lc-prep/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/victorcodess/lc-prep/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/victorcodess/lc-prep/tree/main/0069-sqrtx/) | Easy |
