@@ -20,14 +20,12 @@
 
 //         const left = fillPath(root.left, node);
 //         if (left.length > 0) {
-//             left.push(root)
-//             return left;
+//             return [root, ...left];
 //         }
 
 //         const right = fillPath(root.right, node);
 //         if (right.length > 0) {
-//             right.push(root)
-//             return right;
+//             return [root, ...right];
 //         }
 
 //         return [];
@@ -37,22 +35,28 @@
 //     const pathQ = fillPath(root, q);
 
 //     console.log(pathP, pathQ)
-//     let lca = null;
 
-//     for (let i = 0; i < Math.min(pathP.length, pathQ.length); i++) {
+//     for (let i = pathP.length - 1; i >= 0; i--) {
 //         const nodeP = pathP[i];
-//         const nodeQ = pathQ[i];
-//         if (nodeP !== nodeQ) break;
-//         lca = nodeP;
+//         for (let j = pathQ.length - 1; j >= 0; j--) {
+//             const nodeQ = pathQ[j];
+//             if (nodeP === nodeQ) return nodeP;
+//         }
 //     }
 
-//     return lca;
+//     return null;
 // };
 
-var lowestCommonAncestor = function(root, p, q) {
-    if (!root || root === p || root === q) return root; // hit a target or empty
-    const left = lowestCommonAncestor(root.left, p, q);   // search left
-    const right = lowestCommonAncestor(root.right, p, q); // search right
-    if (left && right) return root; // p and q in different subtrees
-    return left || right;           // both in one subtree, or one is ancestor
-};
+var lowestCommonAncestor = function(root, p, q) { // Time: O(n), Space: O(n)
+    if (!root) return null;
+    if (root === p || root === q) return root;
+
+    const left = lowestCommonAncestor(root.left, p, q);
+    const right = lowestCommonAncestor(root.right, p, q);
+
+    if (left && right) {
+        return root;
+    } else {
+        return left || right;
+    }
+}
