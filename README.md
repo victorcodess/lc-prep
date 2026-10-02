@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/victorcodess/lc-prep/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/victorcodess/lc-prep/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/victorcodess/lc-prep/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/victorcodess/lc-prep/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/victorcodess/lc-prep/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/victorcodess/lc-prep/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/victorcodess/lc-prep/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
@@ -417,4 +420,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/victorcodess/lc-prep/tree/main/0239-sliding-window-maximum/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
