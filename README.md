@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/victorcodess/lc-prep/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/victorcodess/lc-prep/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/victorcodess/lc-prep/tree/main/0069-sqrtx/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/victorcodess/lc-prep/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
