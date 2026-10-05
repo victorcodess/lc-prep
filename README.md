@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/victorcodess/lc-prep/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/victorcodess/lc-prep/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
+| [0326-power-of-three](https://github.com/victorcodess/lc-prep/tree/main/0326-power-of-three/) | Easy |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/victorcodess/lc-prep/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/victorcodess/lc-prep/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/victorcodess/lc-prep/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/victorcodess/lc-prep/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0326-power-of-three](https://github.com/victorcodess/lc-prep/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
