@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
@@ -215,11 +216,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Sorting
