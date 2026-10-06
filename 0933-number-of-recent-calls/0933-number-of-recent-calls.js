@@ -24,10 +24,7 @@ RecentCounter.prototype.ping = function(t) {
         }
     }
 
-    // console.log(this.arr[r], this.arr[l], t, this.arr, lim)
-
-    if (this.arr[r - 1] < lim) return this.arr.length - r;
-    else return this.arr.length - r;
+    return this.arr.length - r;
 };
 
 /** 
