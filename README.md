@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0359-logger-rate-limiter](https://github.com/victorcodess/lc-prep/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/victorcodess/lc-prep/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0359-logger-rate-limiter](https://github.com/victorcodess/lc-prep/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/victorcodess/lc-prep/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/victorcodess/lc-prep/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/victorcodess/lc-prep/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
