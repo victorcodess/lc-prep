@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/victorcodess/lc-prep/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [2235-add-two-integers](https://github.com/victorcodess/lc-prep/tree/main/2235-add-two-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/victorcodess/lc-prep/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/victorcodess/lc-prep/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Breadth-First Search
