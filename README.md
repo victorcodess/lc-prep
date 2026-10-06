@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/victorcodess/lc-prep/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/victorcodess/lc-prep/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/victorcodess/lc-prep/tree/main/0326-power-of-three/) | Easy |
+| [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/victorcodess/lc-prep/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/victorcodess/lc-prep/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -458,4 +460,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
