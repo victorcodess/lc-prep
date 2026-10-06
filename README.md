@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/victorcodess/lc-prep/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/victorcodess/lc-prep/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/victorcodess/lc-prep/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/victorcodess/lc-prep/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/victorcodess/lc-prep/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/victorcodess/lc-prep/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/victorcodess/lc-prep/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/victorcodess/lc-prep/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [3870-count-commas-in-range](https://github.com/victorcodess/lc-prep/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/victorcodess/lc-prep/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Breadth-First Search
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/victorcodess/lc-prep/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
