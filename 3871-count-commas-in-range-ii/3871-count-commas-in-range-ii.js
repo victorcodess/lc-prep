@@ -1,0 +1,14 @@
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var countCommas = function(n) { // Time: O(1), Space: O(1)
+    let p = 1000, res = 0;
+
+    while (p <= n) {
+        res += n - p + 1;
+        p *= 1000;
+    }
+
+    return res;
+};
