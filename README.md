@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/victorcodess/lc-prep/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/victorcodess/lc-prep/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/victorcodess/lc-prep/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/victorcodess/lc-prep/tree/main/0069-sqrtx/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/victorcodess/lc-prep/tree/main/0704-binary-search/) | Easy |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
@@ -289,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/victorcodess/lc-prep/tree/main/0680-valid-palindrome-ii/) | Easy |
