@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/victorcodess/lc-prep/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/victorcodess/lc-prep/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/victorcodess/lc-prep/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/victorcodess/lc-prep/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/victorcodess/lc-prep/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -514,5 +518,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
