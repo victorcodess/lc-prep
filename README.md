@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/victorcodess/lc-prep/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/victorcodess/lc-prep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/victorcodess/lc-prep/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/victorcodess/lc-prep/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/victorcodess/lc-prep/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/victorcodess/lc-prep/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/victorcodess/lc-prep/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/victorcodess/lc-prep/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/victorcodess/lc-prep/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
