@@ -30,7 +30,7 @@ var characterReplacement = function(s, k) { // Time: O(n), Space O(n)
             need = len - maxF;
         }
 
-        if (need <= k) maxSub = Math.max(maxSub, len);
+        maxSub = Math.max(maxSub, len);
     }
 
     return maxSub;
