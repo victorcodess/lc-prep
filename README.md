@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/victorcodess/lc-prep/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/victorcodess/lc-prep/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/victorcodess/lc-prep/tree/main/0146-lru-cache/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/victorcodess/lc-prep/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/victorcodess/lc-prep/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/victorcodess/lc-prep/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/victorcodess/lc-prep/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/victorcodess/lc-prep/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/victorcodess/lc-prep/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/victorcodess/lc-prep/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/victorcodess/lc-prep/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/victorcodess/lc-prep/tree/main/0143-reorder-list/) | Medium |
 | [0326-power-of-three](https://github.com/victorcodess/lc-prep/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 ## Trie
