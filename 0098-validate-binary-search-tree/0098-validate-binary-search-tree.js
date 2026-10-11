@@ -10,40 +10,32 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-// var isValidBST = function(root) {
-//     function validate(root, ) {
-//         if (!root) return [-Infinity, Infinity, true];
+var isValidBST = function(root, lb = -Infinity, up = Infinity) { // Time: O(n), Space: O(n)
+    if (!root) return true;
 
-//         const [minL, maxL, leftV] = validate(root.left);
-//         const [minR, maxR, rightV] = validate(root.right);
+    if (root.val <= lb || root.val >= up) return false;
 
-//         // if (leftS && left >= root.val) return false;
-//         // if (rightS && right <= root.val) return false;
+    const left = isValidBST(root.left, lb, root.val);
+    const right = isValidBST(root.right, root.val, up);
 
-//         return [Math.min(root.val, minL, minR), Math.max(root.val, maxL, maxR), leftV && rightV];
+    return left && right;
+};
+
+// var isValidBST = function(root) { // Time: O(n), Space: O(n)
+//     function inOrder(root) {
+//        if (!root) return;
+
+//        inOrder(root.left);
+//        arr.push(root.val);
+//        inOrder(root.right);
 //     }
 
-//     const res = validate(root);
-//     console.log(res);
-
+//     const arr = [];
+//     inOrder(root);
     
+//     for (let i = 0; i < arr.length - 1; i++) {
+//         if (arr[i + 1] <= arr[i]) return false;
+//     }
+
+//     return true;
 // };
-
-var isValidBST = function(root) { // Time: O(n), Space: O(n)
-    function inOrder(root) {
-       if (!root) return;
-
-       inOrder(root.left);
-       arr.push(root.val);
-       inOrder(root.right);
-    }
-
-    const arr = [];
-    inOrder(root);
-    
-    for (let i = 0; i < arr.length - 1; i++) {
-        if (arr[i + 1] <= arr[i]) return false;
-    }
-
-    return true;
-};
