@@ -3,22 +3,12 @@
  * @param {number} target
  * @return {number}
  */
-var threeSumClosest = function(nums, target) {
-    const seen = new Set();
+var threeSumClosest = function(nums, target) { // Time: O(n^2), Space: O(1)
     nums.sort((a, b) => a - b);
     let res = null;
     let closest = Infinity;
-    
-
-    // -4,-1,1,2 -> -3
-    // -4 -1
 
     for (let i = 0; i < nums.length; i++) {
-        const num1 = nums[i];
-
-        const need = target - num1;
-        
-
         let j = i + 1;
         let k = nums.length - 1;
 
@@ -40,6 +30,4 @@ var threeSumClosest = function(nums, target) {
     }
 
     return res;
-
-
 };
