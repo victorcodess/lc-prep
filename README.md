@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/victorcodess/lc-prep/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/victorcodess/lc-prep/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/victorcodess/lc-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/victorcodess/lc-prep/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/victorcodess/lc-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/victorcodess/lc-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/victorcodess/lc-prep/tree/main/1929-concatenation-of-array/) | Easy |
 ## Union-Find
