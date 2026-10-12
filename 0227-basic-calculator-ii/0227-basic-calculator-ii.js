@@ -7,7 +7,8 @@
     let i = 0;
 
     function isNum(ch) {
-        return (ch >= "0" && ch <= "9") || (ch >= 0 && ch <= (2 ** 31) - 1);
+        const num = Number(ch);
+        return (num >= 0 && num <= (2 ** 31) - 1);
     }
 
     while (i < s.length) {
