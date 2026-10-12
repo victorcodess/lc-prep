@@ -2,10 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-var calculate = function(s) {
-    // 3,+,2,*,2
-    // 3,+,4
-
+    var calculate = function(s) { // Time: O(d + a), Space: O(n)
     const stack = [];
     let i = 0;
 
@@ -30,9 +27,6 @@ var calculate = function(s) {
 
             i = j;
         } else {
-            // if (ch === "+") {
-
-            // }
             stack.push(ch);
             i++;
         }
@@ -82,6 +76,5 @@ var calculate = function(s) {
         }
     }
 
-    console.log(stack, stk2, stk3)
     return stk3[0];
 };
