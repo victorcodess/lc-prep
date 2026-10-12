@@ -19,17 +19,13 @@ var rightSideView = function(root) { // Time: O(n), Space: O(n)
     const res = [];
 
     while (head < q.length) {
-        const [curr, lev] = q[head];
-        const next = head + 1;
-
-        console.log(next, q.map(([x, y]) => [x.val, y]))
+        const [curr, lev] = q[head++];
+        const next = head;
 
         if (next >= q.length || q[next][1] !== lev) res.push(curr.val);
 
         if (curr.left !== null) q.push([curr.left, lev + 1]);
         if (curr.right !== null) q.push([curr.right, lev + 1]);
-
-        head++;
     }
 
     return res;
