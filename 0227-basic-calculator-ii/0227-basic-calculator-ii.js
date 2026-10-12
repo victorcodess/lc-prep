@@ -80,8 +80,36 @@
 //     return stk3[0];
 // };
 
-var calculate = function(s) { // Time: O(n), Space: O(n)
-    const stack = [];
+// var calculate = function(s) { // Time: O(n), Space: O(n)
+//     const stack = [];
+//     let num = 0;
+//     let sign = "+";
+
+//     for (let i = 0; i <= s.length; i++) {
+//         const ch = s[i];
+
+//         if (ch >= "0" && ch <= "9") {
+//             num = num * 10 + Number(ch);
+//         }
+
+//         if ((ch < "0" || ch > "9") && ch !== " " || i === s.length) {
+//             if (sign === "+") stack.push(num);
+//             else if (sign === "-") stack.push(-num);
+//             else if (sign === "*") stack.push(Math.trunc(stack.pop() * num));
+//             else if (sign === "/") stack.push(Math.trunc(stack.pop() / num));
+
+//             sign = ch;
+//             num = 0;
+//         }
+//     }
+
+//     const res = stack.reduce((a, b) => a + b, 0);
+//     return res;
+// };
+
+var calculate = function(s) { // Time: O(n), Space: O(1)
+    let total = 0;
+    let prev = 0;
     let num = 0;
     let sign = "+";
 
@@ -93,16 +121,22 @@ var calculate = function(s) { // Time: O(n), Space: O(n)
         }
 
         if ((ch < "0" || ch > "9") && ch !== " " || i === s.length) {
-            if (sign === "+") stack.push(num);
-            else if (sign === "-") stack.push(-num);
-            else if (sign === "*") stack.push(Math.trunc(stack.pop() * num));
-            else if (sign === "/") stack.push(Math.trunc(stack.pop() / num));
+            if (sign === "+") {
+                total += prev;
+                prev = num;
+            } else if (sign === "-") {
+                total += prev;
+                prev = -num;
+            } else if (sign === "*") {
+                prev *= num;
+            } else if (sign === "/") {
+                prev = Math.trunc(prev / num);
+            }
 
             sign = ch;
             num = 0;
         }
     }
 
-    const res = stack.reduce((a, b) => a + b, 0);
-    return res;
+    return total + prev;
 };
