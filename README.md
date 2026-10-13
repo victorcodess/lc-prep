@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/victorcodess/lc-prep/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/victorcodess/lc-prep/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/victorcodess/lc-prep/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/victorcodess/lc-prep/tree/main/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/victorcodess/lc-prep/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/victorcodess/lc-prep/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/victorcodess/lc-prep/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/victorcodess/lc-prep/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/victorcodess/lc-prep/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/victorcodess/lc-prep/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0621-task-scheduler](https://github.com/victorcodess/lc-prep/tree/main/0621-task-scheduler/) | Medium |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/victorcodess/lc-prep/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/victorcodess/lc-prep/tree/main/0402-remove-k-digits/) | Medium |
 ## Design
 | Problem Name | Difficulty |
