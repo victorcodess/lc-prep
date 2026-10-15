@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/victorcodess/lc-prep/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/victorcodess/lc-prep/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/victorcodess/lc-prep/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/victorcodess/lc-prep/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/victorcodess/lc-prep/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0249-group-shifted-strings](https://github.com/victorcodess/lc-prep/tree/main/0249-group-shifted-strings/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/victorcodess/lc-prep/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/victorcodess/lc-prep/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/victorcodess/lc-prep/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/victorcodess/lc-prep/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/victorcodess/lc-prep/tree/main/0525-contiguous-array/) | Medium |
