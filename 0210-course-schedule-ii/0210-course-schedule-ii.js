@@ -3,8 +3,9 @@
  * @param {number[][]} prerequisites
  * @return {number[]}
  */
-var findOrder = function(numCourses, prerequisites) {
+var findOrder = function(numCourses, prerequisites) { // Time: O(v + e), Space: (v)
     const graph = {};
+
     for (let i = 0; i < numCourses; i++) {
         graph[i] = [];
     }
@@ -33,7 +34,9 @@ var findOrder = function(numCourses, prerequisites) {
     }
 
     for (let node in graph) {
-        cycle = dfs(Number(node));
+        if (dfs(Number(node))) {
+            cycle = true;
+        }
     }
 
     return cycle || res.length !== numCourses ? [] : res.reverse();
