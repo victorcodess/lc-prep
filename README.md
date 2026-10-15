@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/victorcodess/lc-prep/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/victorcodess/lc-prep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/victorcodess/lc-prep/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/victorcodess/lc-prep/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/victorcodess/lc-prep/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/victorcodess/lc-prep/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/victorcodess/lc-prep/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/victorcodess/lc-prep/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/victorcodess/lc-prep/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/victorcodess/lc-prep/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/victorcodess/lc-prep/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/victorcodess/lc-prep/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -481,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/victorcodess/lc-prep/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/victorcodess/lc-prep/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/victorcodess/lc-prep/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
