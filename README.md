@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/victorcodess/lc-prep/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/victorcodess/lc-prep/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/victorcodess/lc-prep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/victorcodess/lc-prep/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/victorcodess/lc-prep/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/victorcodess/lc-prep/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/victorcodess/lc-prep/tree/main/0042-trapping-rain-water/) | Hard |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/victorcodess/lc-prep/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/victorcodess/lc-prep/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/victorcodess/lc-prep/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/victorcodess/lc-prep/tree/main/0143-reorder-list/) | Medium |
