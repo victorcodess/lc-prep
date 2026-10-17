@@ -9,7 +9,7 @@ var twoSum = function(nums, target) { // Time: O(n), Space: O(n);
     for (let i = 0; i < nums.length; i++) {
         const complement = target - nums[i];
 
-        if (seen.has(complement)) return  [seen.get(complement), i];
+        if (seen.has(complement)) return [seen.get(complement), i];
 
         seen.set(nums[i], i);
     }
