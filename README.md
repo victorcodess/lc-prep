@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/victorcodess/lc-prep/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/victorcodess/lc-prep/tree/main/1929-concatenation-of-array/) | Easy |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/victorcodess/lc-prep/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/victorcodess/lc-prep/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/victorcodess/lc-prep/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/victorcodess/lc-prep/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/victorcodess/lc-prep/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/victorcodess/lc-prep/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/victorcodess/lc-prep/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/victorcodess/lc-prep/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/victorcodess/lc-prep/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/victorcodess/lc-prep/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/victorcodess/lc-prep/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -422,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/victorcodess/lc-prep/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
