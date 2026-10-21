@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/victorcodess/lc-prep/tree/main/1929-concatenation-of-array/) | Easy |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/victorcodess/lc-prep/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/victorcodess/lc-prep/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/victorcodess/lc-prep/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/victorcodess/lc-prep/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/victorcodess/lc-prep/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/victorcodess/lc-prep/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/victorcodess/lc-prep/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -627,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
