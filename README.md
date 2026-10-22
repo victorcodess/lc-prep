@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/victorcodess/lc-prep/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0419-battleships-in-a-board](https://github.com/victorcodess/lc-prep/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0525-contiguous-array](https://github.com/victorcodess/lc-prep/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/victorcodess/lc-prep/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/victorcodess/lc-prep/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/victorcodess/lc-prep/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/victorcodess/lc-prep/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/victorcodess/lc-prep/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/victorcodess/lc-prep/tree/main/0210-course-schedule-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/victorcodess/lc-prep/tree/main/0419-battleships-in-a-board/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/victorcodess/lc-prep/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
