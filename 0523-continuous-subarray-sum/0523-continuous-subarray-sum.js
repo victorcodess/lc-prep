@@ -6,7 +6,7 @@
 var checkSubarraySum = function(nums, k) { // Time: O(n), Space: O(n)
     const prefix = new Map();
     prefix.set(0, -1);
-    
+
     let sum = 0;
 
     for (let i = 0; i < nums.length; i++) {
@@ -17,7 +17,7 @@ var checkSubarraySum = function(nums, k) { // Time: O(n), Space: O(n)
         if (prefix.has(remainder)) {
             if (i - prefix.get(remainder) >= 2) return true;
         } else {
-            if (!prefix.has(remainder)) prefix.set(remainder, i);
+            prefix.set(remainder, i);
         }
     }
 
