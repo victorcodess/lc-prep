@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/victorcodess/lc-prep/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/victorcodess/lc-prep/tree/main/0326-power-of-three/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/victorcodess/lc-prep/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/victorcodess/lc-prep/tree/main/0412-fizz-buzz/) | Easy |
 | [0836-rectangle-overlap](https://github.com/victorcodess/lc-prep/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/victorcodess/lc-prep/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/victorcodess/lc-prep/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/victorcodess/lc-prep/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/victorcodess/lc-prep/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/victorcodess/lc-prep/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
