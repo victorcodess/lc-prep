@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/victorcodess/lc-prep/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/victorcodess/lc-prep/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/victorcodess/lc-prep/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/victorcodess/lc-prep/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/victorcodess/lc-prep/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/victorcodess/lc-prep/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/victorcodess/lc-prep/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/victorcodess/lc-prep/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/victorcodess/lc-prep/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/victorcodess/lc-prep/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
