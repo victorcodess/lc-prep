@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/victorcodess/lc-prep/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/victorcodess/lc-prep/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/victorcodess/lc-prep/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [0835-image-overlap](https://github.com/victorcodess/lc-prep/tree/main/0835-image-overlap/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/victorcodess/lc-prep/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/victorcodess/lc-prep/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/victorcodess/lc-prep/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/victorcodess/lc-prep/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/victorcodess/lc-prep/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/victorcodess/lc-prep/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/victorcodess/lc-prep/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/victorcodess/lc-prep/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/victorcodess/lc-prep/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/victorcodess/lc-prep/tree/main/0856-score-of-parentheses/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/victorcodess/lc-prep/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/victorcodess/lc-prep/tree/main/0279-perfect-squares/) | Medium |
 | [0655-print-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0655-print-binary-tree/) | Medium |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [0994-rotting-oranges](https://github.com/victorcodess/lc-prep/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -355,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/victorcodess/lc-prep/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0655-print-binary-tree](https://github.com/victorcodess/lc-prep/tree/main/0655-print-binary-tree/) | Medium |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/victorcodess/lc-prep/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -380,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/victorcodess/lc-prep/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/victorcodess/lc-prep/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0621-task-scheduler](https://github.com/victorcodess/lc-prep/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/victorcodess/lc-prep/tree/main/0767-reorganize-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
@@ -655,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/victorcodess/lc-prep/tree/main/0200-number-of-islands/) | Medium |
+| [0721-accounts-merge](https://github.com/victorcodess/lc-prep/tree/main/0721-accounts-merge/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/victorcodess/lc-prep/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/victorcodess/lc-prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search Tree
