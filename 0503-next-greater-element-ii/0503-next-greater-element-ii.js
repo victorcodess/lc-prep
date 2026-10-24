@@ -3,22 +3,14 @@
  * @return {number[]}
  */
 var nextGreaterElements = function(nums) { // Time: O(n * n), Space: O(n)
-    const res = new Array(nums.length).fill(null);
+    const N = nums.length;  
+    const res = new Array(N).fill(null);
 
-    for (let i = 0; i < nums.length; i++) {
-        for (let j = i + 1; j < nums.length; j++) {
+    for (let i = 0; i < N; i++) {
+        for (let j = (i + 1) % N; j !== i; j = (j + 1) % N) {
             if (nums[j] > nums[i]) {
                 res[i] = nums[j];
                 break;
-            }
-        }
-
-        if (res[i] === null) {
-            for (let j = 0; j < i; j++) {
-                if (nums[j] > nums[i]) {
-                    res[i] = nums[j];
-                    break;
-                }
             }
         }
 
