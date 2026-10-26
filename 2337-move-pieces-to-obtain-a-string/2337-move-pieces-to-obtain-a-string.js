@@ -4,7 +4,7 @@
  * @return {boolean}
  */
 var canChange = function(start, target) { // Time: O(n + m), Space: O(1)
-    let ls = rs = lt = rt = 0;
+    let ls = 0, rs = 0, lt = 0, rt = 0;
 
     for (let i = 0; i < start.length; i++) {
         const chS = start[i];
@@ -22,8 +22,8 @@ var canChange = function(start, target) { // Time: O(n + m), Space: O(1)
     let t = 0;
 
     while (s < start.length && t < target.length) {
-        while (start[s] === "_") s++;
-        while (target[t] === "_") t++;
+        while (s + 1 < start.length && start[s] === "_") s++;
+        while (t + 1 < target.length && target[t] === "_") t++;
 
         if (start[s] !== target[t]) return false;
 
