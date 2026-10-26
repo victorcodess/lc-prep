@@ -2,11 +2,10 @@
  * @param {string[]} words
  * @return {number}
  */
-var longestStrChain = function(words) {
+var longestStrChain = function(words) { // Time: O(n * n * l), Space: O(n * n)
     let n = words.length;
-    const memo = Array.from({ length: n + 1 }, () => Array(n + 1).fill(null));
+    const memo = Array.from({ length: n + 1 }, () => Array(n + 1).fill(-1));
     words.sort((a, b) => a.length - b.length);
-    let maxC = 0;
 
     function isSuccessor(curr, next) {
         if (next.length - curr.length !== 1) return false;
@@ -28,26 +27,20 @@ var longestStrChain = function(words) {
 
     function dfs(i, prev) {
         if (i >= n) return 0;
-        if (prev >= 0 && words[i].length - words[prev].length !== 1) return 0;
-        if (prev >= 0 && memo[i][prev] !== null) return memo[i][prev];
+        if (prev !== -1 && memo[i][prev] !== -1) return memo[i][prev];
 
-        let maxCC = 1;
+        let skip = dfs(i + 1, prev);
+        let take = 0;
 
-        for (let k = i + 1; k < words.length; k++) {
-            if (isSuccessor(words[i], words[k])) {
-                let currC = 1 + dfs(k, i);
-                maxCC = Math.max(maxCC, currC);
-            }
+        if (prev === -1 || isSuccessor(words[prev], words[i])) {
+            take = 1 + dfs(i + 1, i);
         }
 
-        memo[i][prev] = maxCC;
-        return maxCC;
+        const res = Math.max(skip, take);
+
+        memo[i][prev] = res;
+        return res;
     }
 
-    for (let i = 0; i < n; i++) {
-        const len = dfs(i, -1);
-        maxC = Math.max(len, maxC);
-    }
-
-    return maxC;
+    return dfs(0, -1);
 };
