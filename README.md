@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/victorcodess/lc-prep/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/victorcodess/lc-prep/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/victorcodess/lc-prep/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/victorcodess/lc-prep/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/victorcodess/lc-prep/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/victorcodess/lc-prep/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/victorcodess/lc-prep/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
