@@ -2,7 +2,7 @@
  * @param {number} x
  * @return {number}
  */
-var reverse = function(x) { // Time: O(n), Space: O(1)
+var reverse = function(x) { // Time: O(1), Space: O(1)
     let num = 0;
 
     const MAX = (2 ** 31) - 1;
