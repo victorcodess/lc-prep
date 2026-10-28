@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-flip-string-to-monotone-increasing](https://github.com/victorcodess/lc-prep/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/victorcodess/lc-prep/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/victorcodess/lc-prep/tree/main/1048-longest-string-chain/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/victorcodess/lc-prep/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/victorcodess/lc-prep/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/victorcodess/lc-prep/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/victorcodess/lc-prep/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/victorcodess/lc-prep/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1048-longest-string-chain](https://github.com/victorcodess/lc-prep/tree/main/1048-longest-string-chain/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/victorcodess/lc-prep/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/victorcodess/lc-prep/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1169-invalid-transactions](https://github.com/victorcodess/lc-prep/tree/main/1169-invalid-transactions/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/victorcodess/lc-prep/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/victorcodess/lc-prep/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -700,4 +702,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/victorcodess/lc-prep/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/victorcodess/lc-prep/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
