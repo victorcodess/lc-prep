@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/victorcodess/lc-prep/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/victorcodess/lc-prep/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/victorcodess/lc-prep/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/victorcodess/lc-prep/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
